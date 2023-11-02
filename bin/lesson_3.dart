@@ -82,17 +82,6 @@ print(int.parse(number).isEven);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
  
 
 }
