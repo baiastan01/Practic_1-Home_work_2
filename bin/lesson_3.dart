@@ -45,8 +45,8 @@ String o = "Hello, world!";//10
 print(o.contains("world"));
 
 String q = "Dart is great!";//9
-List w = q.split("");
-print(q);
+List <String> w = q.split("Dart");
+print(w);
 
 
 
